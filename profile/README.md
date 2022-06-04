@@ -4,7 +4,7 @@
 
 ## Hello Everyone! 👋
 This is our repository for Product-Based Capstone Project.
-Our team consist of 6 people.\n
+Our team consist of 6 people.
 
 ## The Team
 <center>
