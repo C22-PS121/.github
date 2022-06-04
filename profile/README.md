@@ -1,12 +1,12 @@
 ![logo_dantion](https://user-images.githubusercontent.com/103911439/172003339-19fab229-ba5a-46df-bb95-73601f26a0ac.svg)
-# Bangkit 2022-C22-PS121-Product-Based-Capstone-Project
+# Bangkit 2022-C22-PS121 Product Based Capstone Project
 **Dantion - Danger Detection**
 
-# Hello Everyone! 👋
+## Hello Everyone! 👋
 This is our repository for Product Based Capstone.
 Our team Consist of 6 people.
 
-# The Team
+## The Team
 <center>
  
 |**Name**|**Bangkit ID**|**Learning Path**|
@@ -20,5 +20,5 @@ Our team Consist of 6 people.
 
 </center>
   
-# Theme
+## Theme
 Mobility & Smart City
