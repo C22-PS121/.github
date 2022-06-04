@@ -3,7 +3,7 @@
 **Dantion - Danger Detection**
 
 ## Hello Everyone! 👋
-This is our repository for Product Based Capstone.
+This is our repository for Product-Based Capstone.
 Our team Consist of 6 people.
 
 ## The Team
