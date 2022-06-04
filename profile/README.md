@@ -1,12 +1,6 @@
-## Hi there 👋
+# Bangkit 2022-C22-PS1S1-Product-Based-Capstone-Project
+Market System & Agricultural Commodity Price Forecasting.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Hello Everyone! 👋
+This is our repository for Product Based Capstone.
+Our team Consist of 6 people.
