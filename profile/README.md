@@ -8,6 +8,7 @@ Our team Consist of 6 people.
 
 # The Team
 <center>
+  
 **Name**|**Bangkit ID**|**Learning Path**
 :-----:|:-----:|:-----:
 |Ni Nyoman Putri Utami |	C2253J2225	| Cloud Computing |
@@ -16,6 +17,7 @@ Our team Consist of 6 people.
 |Ahmad Ulfi Jihad Dzulqornain |	M7006F0531 |	Machine Learning |
 |M. Audi Adyan |	A7253J2223 |	Mobile Development |
 |Pangeran Muhammad Waliyullah |	A2253J2226 |	Mobile Development |
+
 </center>
   
 # Theme
