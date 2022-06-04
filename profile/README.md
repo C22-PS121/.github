@@ -16,7 +16,7 @@ Our team Consist of 6 people.
 |Ahmad Ulfi Jihad Dzulqornain |	M7006F0531 |	Machine Learning |
 |M. Audi Adyan |	A7253J2223 |	Mobile Development |
 |Pangeran Muhammad Waliyullah |	A2253J2226 |	Mobile Development |
-<center/>
+</center>
   
 # Theme
 Mobility & Smart City
